@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <rect width="512" height="512" rx="64" fill="#2563EB"/>
+  <g fill="#F8FAFC">
+    <!-- Hot spring symbol (onsen mark) -->
+    <ellipse cx="256" cy="340" rx="120" ry="60"/>
+    <!-- Steam lines -->
+    <path d="M180 240 Q180 200 200 180 Q220 160 200 120" stroke="#F8FAFC" stroke-width="16" fill="none" stroke-linecap="round"/>
+    <path d="M256 220 Q256 180 276 160 Q296 140 276 100" stroke="#F8FAFC" stroke-width="16" fill="none" stroke-linecap="round"/>
+    <path d="M332 240 Q332 200 312 180 Q292 160 312 120" stroke="#F8FAFC" stroke-width="16" fill="none" stroke-linecap="round"/>
+  </g>
+</svg>
